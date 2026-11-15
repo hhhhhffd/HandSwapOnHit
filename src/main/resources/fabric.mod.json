@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "handswaponhit",
+  "version": "${version}",
+  "name": "HandSwapOnHit",
+  "description": "Flip Minecraft’s main hand display after a confirmed direct hit on another player.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.handswaponhit.HandSwapOnHit"],
+    "modmenu": ["com.handswaponhit.MenuIntegration"]
+  },
+  "mixins": ["handswaponhit.client.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "=1.21.11",
+    "java": ">=21",
+    "fabric-api": ">=0.141.6"
+  },
+  "suggests": {"modmenu": ">=17.0.0"}
+}

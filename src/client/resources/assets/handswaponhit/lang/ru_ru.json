@@ -1,0 +1,11 @@
+{
+  "key.category.handswaponhit.controls": "HandSwapOnHit",
+  "key.handswaponhit.toggle": "Включить / выключить смену руки",
+  "handswaponhit.notice.enabled": "HandSwapOnHit: вкл",
+  "handswaponhit.notice.disabled": "HandSwapOnHit: выкл",
+  "handswaponhit.menu.enabled": "Смена руки: %s",
+  "handswaponhit.menu.notice": "Уведомление при переключении: %s",
+  "handswaponhit.menu.side": "Основная рука: %s",
+  "handswaponhit.menu.bind": "Изменить бинд",
+  "handswaponhit.menu.hint": "Только подтверждённый удар по игроку"
+}

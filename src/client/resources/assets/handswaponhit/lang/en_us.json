@@ -1,0 +1,11 @@
+{
+  "key.category.handswaponhit.controls": "HandSwapOnHit",
+  "key.handswaponhit.toggle": "Toggle swapping on hit",
+  "handswaponhit.notice.enabled": "HandSwapOnHit: on",
+  "handswaponhit.notice.disabled": "HandSwapOnHit: off",
+  "handswaponhit.menu.enabled": "Swap on hit: %s",
+  "handswaponhit.menu.notice": "Key toggle notice: %s",
+  "handswaponhit.menu.side": "Main hand: %s",
+  "handswaponhit.menu.bind": "Change keybind",
+  "handswaponhit.menu.hint": "Confirmed melee hits on players only"
+}
